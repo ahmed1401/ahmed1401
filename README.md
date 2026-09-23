@@ -67,8 +67,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed1401&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed1401&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed1401&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&v=1" alt="Ahmed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed1401&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&v=1" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
