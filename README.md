@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmed HAJJEJ 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI & Microservices Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI & Microservices Specialist</h3>
 
 <p align="center">
   <a href="mailto:ahmed.hajjej@enicar.ucar.tn">
@@ -15,60 +15,117 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Software Engineer graduate** from The National Engineering School of Carthage (ENICarthage).
-* 🎯 Seeking a **Full-Stack Software Engineer** position to design robust, scalable, and intelligent solutions.
-* 🚀 Proficient in the entire software development lifecycle (design, development, testing, deployment) and integrating AI models.
-* 🤝 Experienced in Agile (Scrum) methodologies, having successfully led project delivery across multiple sprints.
-* 🗣️ Fluent in English (TOEIC B2), French (Professional B2), and Arabic (Native).
+* 🎓 **Software Engineer Graduate** in Computer Science from the **National Engineering School of Carthage (ENICarthage)**[cite: 4].
+* 🎯 Seeking a **Full-Stack Software Engineer** position to design robust, scalable, and intelligent software solutions[cite: 4].
+* 🚀 Proficient in the entire software development lifecycle (design, development, testing, deployment) as well as building and integrating AI models[cite: 4].
+* 🤝 Experienced Agile (Scrum) practitioner with proven ability to lead project delivery across multiple sprints[cite: 4].
+* 🗣️ **Languages:** English (TOEIC Certified Professional B2), French (Professional B2), and Arabic (Native)[cite: 4].
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Technical Skills & Arsenal
 
-**Backend & Architecture**
+**Programming Languages**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+
+**Backend Frameworks & ORMs**
 <br>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-FF9900?style=flat-square&logo=amazon&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_/_ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
 
-**Frontend**
+**Frontend Frameworks & UI**
 <br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 
-**Databases & DevOps**
+**Databases & Caching**
 <br>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
-*(Languages: Java, C++, C, C#, Python, JavaScript, TypeScript)*
+**Architecture, Security & Protocols**
+<br>
+<img src="https://img.shields.io/badge/Microservices-FF9900?style=flat-square&logo=amazon&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" />
+<img src="https://img.shields.io/badge/SOAP-000000?style=flat-square&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Gateway-009688?style=flat-square&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Tenancy-4682B4?style=flat-square&logo=serverless&logoColor=white" />
+<img src="https://img.shields.io/badge/SHA--256_Hashing-000000?style=flat-square&logo=letsencrypt&logoColor=white" />
+
+**DevOps, Methodologies & QA Tools**
+<br>
+<img src="https://img.shields.io/badge/Agile_/_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git_/_GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/UML-000000?style=flat-square&logo=diagramsdotnet&logoColor=white" />
 
 ---
 
-### 🚀 Featured Engineering Experience & Projects
+### 💼 Work Experience
 
-| Role / Project | Description | Tech Stack |
+#### 🏢 Full-Stack Software Engineer Intern (PFE) | Moonside Consulting & Services — Tunis[cite: 4]
+* Feb. 2026 – Jul. 2026[cite: 4]
+* Designed and developed a secure multi-tenant public API using Nest.JS and MongoDB for the **WeDoGood** platform (client: erable)[cite: 4].
+* Implemented authentication via SHA-256 key hashing and atomic rate limiting controls backed by Redis[cite: 4].
+* Built an admin console with immutable MongoDB audit logging and a 3-state API key lifecycle (PENDING → ACTIVE → REVOKED), plus a self-service client portal (Next.js) for key management[cite: 4].
+* Led project delivery in Agile/Scrum (5 sprints) with integration testing (Vitest, Testcontainers) across the monorepo, ensuring GDPR compliance and full system observability[cite: 4].
+
+#### 🏢 Backend Developer Intern | AriMayi — France (Remote)[cite: 4]
+* Jun. 2025 – Aug. 2025[cite: 4]
+* Created UML diagrams and technical documentation; actively participated in Agile sprints and code reviews[cite: 4].
+* Developed event-driven REST APIs using Spring Boot with real-time notifications[cite: 4].
+
+---
+
+### 🚀 Key Projects
+
+| Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| **Full-Stack Engineer Intern** <br>*(Moonside Consulting)* | Designed a secure multi-tenant public API for a royalty-based crowdfunding platform with a 3-state API key lifecycle, atomic rate limiting, and an admin console. | Nest.js, MongoDB, Redis, Next.js, Vitest |
-| **Smart City Interop** | Containerized smart-city microservices ecosystem with a secure API Gateway and automated QA. | REST, SOAP, gRPC, GraphQL, API Gateway |
-| **MedViT Multi-Diag** | Built a Vision Transformer architecture for multi-task medical diagnostics (chest pathologies, skin cancers, brain tumors). | PyTorch, MONAI, Python |
-| **QuizMaster** | Developed a quiz platform with a comprehensive QA strategy including performance testing and security scanning. | MEAN Stack, Cypress, Jest, k6, OWASP ZAP |
+| **Smart City Interop**[cite: 4] | Containerized smart-city microservices ecosystem via a secure API Gateway with automated QA[cite: 4]. | REST, SOAP, gRPC, GraphQL, API Gateway, Docker[cite: 4] |
+| **QuizMaster (MEAN Stack)**[cite: 4] | Quiz platform with automated testing, load testing, security scanning, and GO/NO-GO reports[cite: 4]. | MongoDB, Express, Angular, Node.js, Cypress, Jest, Karma, k6, OWASP ZAP[cite: 4] |
+| **MedViT Multi-Diag**[cite: 4] | Vision Transformer architecture for multi-task medical diagnostics (chest pathologies, skin cancers, brain tumors) with 4 adaptation strategies[cite: 4]. | PyTorch, MONAI, Python, Vision Transformers[cite: 4] |
+| **MindSphere (Mental Health AI)**[cite: 4] | Early risk detection platform leveraging social media signals, wearable data, and surveys with an intelligent assistant and dashboards[cite: 4]. | Python, AI Models, Wearable Data, Dynamic Dashboards[cite: 4] |
+| **Interactive Games**[cite: 4] | 2D arcade games (Super Mario, Mini-Golf) featuring a custom physics engine, collision detection, and modular architecture[cite: 4]. | Java, JavaFX, Custom Physics Engine[cite: 4] |
+
+---
+
+### 🎓 Education & Leadership
+
+* 🏛️ **ENICarthage** — Engineering Degree in Computer Science (*2023 – 2026*)[cite: 4]
+* 📐 **Preparatory Institute for Engineering Studies, Monastir** — Major: Mathematics & Physics (*2021 – 2023*)[cite: 4]
+* 🎓 **Ibn Al Haythem High School, Ghannouch** — High School Diploma in Mathematics (*2021*) | *Highest Honors*[cite: 4]
+* 🌟 **IEEE AESS Chapter** — Vice President (*2024 – 2025*)[cite: 4]
+* 🤝 **IEEE Student Branch** — Member (*2023 – Present*)[cite: 4]
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed1401&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&v=1" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed1401&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&v=1" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Ahmed1401&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6" alt="Ahmed's GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed1401&theme=transparent&title_color=3b82f6&text_color=ffffff" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
