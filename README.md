@@ -15,11 +15,11 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Software Engineer Graduate** in Computer Science from the **National Engineering School of Carthage (ENICarthage)**[cite: 4].
-* 🎯 Seeking a **Full-Stack Software Engineer** position to design robust, scalable, and intelligent software solutions[cite: 4].
-* 🚀 Proficient in the entire software development lifecycle (design, development, testing, deployment) as well as building and integrating AI models[cite: 4].
-* 🤝 Experienced Agile (Scrum) practitioner with proven ability to lead project delivery across multiple sprints[cite: 4].
-* 🗣️ **Languages:** English (TOEIC Certified Professional B2), French (Professional B2), and Arabic (Native)[cite: 4].
+* 🎓 **Software Engineer Graduate** in Computer Science from the **National Engineering School of Carthage (ENICarthage)**.
+* 🎯 Seeking a **Full-Stack Software Engineer** position to design robust, scalable, and intelligent software solutions.
+* 🚀 Proficient in the entire software development lifecycle (design, development, testing, deployment) as well as building and integrating AI models.
+* 🤝 Experienced Agile (Scrum) practitioner with proven ability to lead project delivery across multiple sprints.
+* 🗣️ **Languages:** English (TOEIC Certified Professional B2), French (Professional B2), and Arabic (Native).
 
 ---
 
@@ -85,17 +85,17 @@
 
 ### 💼 Work Experience
 
-#### 🏢 Full-Stack Software Engineer Intern (PFE) | Moonside Consulting & Services — Tunis[cite: 4]
-* Feb. 2026 – Jul. 2026[cite: 4]
-* Designed and developed a secure multi-tenant public API using Nest.JS and MongoDB for the **WeDoGood** platform (client: erable)[cite: 4].
-* Implemented authentication via SHA-256 key hashing and atomic rate limiting controls backed by Redis[cite: 4].
-* Built an admin console with immutable MongoDB audit logging and a 3-state API key lifecycle (PENDING → ACTIVE → REVOKED), plus a self-service client portal (Next.js) for key management[cite: 4].
-* Led project delivery in Agile/Scrum (5 sprints) with integration testing (Vitest, Testcontainers) across the monorepo, ensuring GDPR compliance and full system observability[cite: 4].
+#### 🏢 Full-Stack Software Engineer Intern (PFE) | Moonside Consulting & Services — Tunis
+* Feb. 2026 – Jul. 2026
+* Designed and developed a secure multi-tenant public API using Nest.JS and MongoDB for the **WeDoGood** platform (client: erable).
+* Implemented authentication via SHA-256 key hashing and atomic rate limiting controls backed by Redis.
+* Built an admin console with immutable MongoDB audit logging and a 3-state API key lifecycle (PENDING → ACTIVE → REVOKED), plus a self-service client portal (Next.js) for key management.
+* Led project delivery in Agile/Scrum (5 sprints) with integration testing (Vitest, Testcontainers) across the monorepo, ensuring GDPR compliance and full system observability.
 
-#### 🏢 Backend Developer Intern | AriMayi — France (Remote)[cite: 4]
-* Jun. 2025 – Aug. 2025[cite: 4]
-* Created UML diagrams and technical documentation; actively participated in Agile sprints and code reviews[cite: 4].
-* Developed event-driven REST APIs using Spring Boot with real-time notifications[cite: 4].
+#### 🏢 Backend Developer Intern | AriMayi — France (Remote)
+* Jun. 2025 – Aug. 2025
+* Created UML diagrams and technical documentation; actively participated in Agile sprints and code reviews.
+* Developed event-driven REST APIs using Spring Boot with real-time notifications.
 
 ---
 
@@ -103,30 +103,23 @@
 
 | Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| **Smart City Interop**[cite: 4] | Containerized smart-city microservices ecosystem via a secure API Gateway with automated QA[cite: 4]. | REST, SOAP, gRPC, GraphQL, API Gateway, Docker[cite: 4] |
-| **QuizMaster (MEAN Stack)**[cite: 4] | Quiz platform with automated testing, load testing, security scanning, and GO/NO-GO reports[cite: 4]. | MongoDB, Express, Angular, Node.js, Cypress, Jest, Karma, k6, OWASP ZAP[cite: 4] |
-| **MedViT Multi-Diag**[cite: 4] | Vision Transformer architecture for multi-task medical diagnostics (chest pathologies, skin cancers, brain tumors) with 4 adaptation strategies[cite: 4]. | PyTorch, MONAI, Python, Vision Transformers[cite: 4] |
-| **MindSphere (Mental Health AI)**[cite: 4] | Early risk detection platform leveraging social media signals, wearable data, and surveys with an intelligent assistant and dashboards[cite: 4]. | Python, AI Models, Wearable Data, Dynamic Dashboards[cite: 4] |
-| **Interactive Games**[cite: 4] | 2D arcade games (Super Mario, Mini-Golf) featuring a custom physics engine, collision detection, and modular architecture[cite: 4]. | Java, JavaFX, Custom Physics Engine[cite: 4] |
+| **Smart City Interop** | Containerized smart-city microservices ecosystem via a secure API Gateway with automated QA. | REST, SOAP, gRPC, GraphQL, API Gateway, Docker |
+| **QuizMaster (MEAN Stack)** | Quiz platform with automated testing, load testing, security scanning, and GO/NO-GO reports. | MongoDB, Express, Angular, Node.js, Cypress, Jest, Karma, k6, OWASP ZAP |
+| **MedViT Multi-Diag** | Vision Transformer architecture for multi-task medical diagnostics (chest pathologies, skin cancers, brain tumors) with 4 adaptation strategies. | PyTorch, MONAI, Python, Vision Transformers |
+| **MindSphere (Mental Health AI)** | Early risk detection platform leveraging social media signals, wearable data, and surveys with an intelligent assistant and dashboards. | Python, AI Models, Wearable Data, Dynamic Dashboards |
+| **Interactive Games** | 2D arcade games (Super Mario, Mini-Golf) featuring a custom physics engine, collision detection, and modular architecture. | Java, JavaFX, Custom Physics Engine |
 
 ---
 
 ### 🎓 Education & Leadership
 
-* 🏛️ **ENICarthage** — Engineering Degree in Computer Science (*2023 – 2026*)[cite: 4]
-* 📐 **Preparatory Institute for Engineering Studies, Monastir** — Major: Mathematics & Physics (*2021 – 2023*)[cite: 4]
-* 🎓 **Ibn Al Haythem High School, Ghannouch** — High School Diploma in Mathematics (*2021*) | *Highest Honors*[cite: 4]
-* 🌟 **IEEE AESS Chapter** — Vice President (*2024 – 2025*)[cite: 4]
-* 🤝 **IEEE Student Branch** — Member (*2023 – Present*)[cite: 4]
+* 🏛️ **ENICarthage** — Engineering Degree in Computer Science (*2023 – 2026*)
+* 📐 **Preparatory Institute for Engineering Studies, Monastir** — Major: Mathematics & Physics (*2021 – 2023*)
+* 🎓 **Ibn Al Haythem High School, Ghannouch** — High School Diploma in Mathematics (*2021*) | *Highest Honors*
+* 🌟 **IEEE AESS Chapter** — Vice President (*2024 – 2025*)
+* 🤝 **IEEE Student Branch** — Member (*2023 – Present*)
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmed1401&theme=transparent&hide_border=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6" alt="Ahmed's GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed1401&theme=transparent&title_color=3b82f6&text_color=ffffff" alt="Top Languages" width="48%" />
-</p>
 
 <p align="center">
   <i>Let's build something scalable and intelligent together! Open to full-time opportunities.</i>
