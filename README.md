@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmed HAJJEJ 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI & Microservices Specialist</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI & Microservices</h3>
 
 <p align="center">
   <a href="mailto:ahmed.hajjej@enicar.ucar.tn">
